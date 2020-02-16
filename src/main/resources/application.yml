@@ -7,4 +7,4 @@ spring:
     config:
       server:
         native:
-          searchLocations: file:///Users/honeybees/PROJ/spring/spring-config/src/main/resources/config
+          searchLocations: file:///Users/honeybees/PROJ/spring/spring-config/src/main/resources/config/env
